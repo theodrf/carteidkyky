@@ -1,18 +1,20 @@
 {
-  "id": "/",
-  "name": "Identité · Démonstration",
-  "short_name": "Identité Démo",
-  "description": "Maquette non officielle. Carte fictive et spécimen sans valeur officielle.",
-  "lang": "fr",
-  "start_url": "/",
-  "scope": "/",
+  "name": "France Identité",
+  "short_name": "Identité",
+  "start_url": "./index.html",
   "display": "standalone",
-  "orientation": "portrait-primary",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
-    {"src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-    {"src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
-    {"src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
   ]
 }
