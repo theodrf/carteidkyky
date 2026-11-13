@@ -1,0 +1,197 @@
+{
+  "identity": {
+    "surname": "PONS",
+    "givenNames": "Kylian",
+    "alternateName": "—",
+    "birthDate": "2004-04-18",
+    "reference": "852400"
+  },
+  "photos": {
+    "portrait": {
+      "src": "assets/avatar.svg",
+      "alt": "Portrait illustré d’un personnage fictif",
+      "position": "center"
+    },
+    "thumbnail": {
+      "src": "",
+      "alt": "",
+      "position": "center"
+    }
+  },
+  "qrCodes": {
+    "card": {
+      "src": "",
+      "alt": "QR code ",
+      "title": "Aucun code à scanner",
+      "caption": "852400"
+    }
+  },
+  "texts": {
+    "page": {
+      "title": "Identité",
+      "cardTitle": "Carte d'identité",
+      "homeTitle": "Identité",
+      "description": "France Identité"
+    },
+    "card": {
+      "back": "Retour",
+      "heading": "CARTE D'IDENTITE'",
+      "subtitle": "PONS KYLIAN",
+      "portraitCaption": "PORTRAIT",
+      "surname": "Pons",
+      "surnameTranslation": "/ Surname",
+      "givenNames": "Kylian Guy",
+      "givenNamesTranslation": "/ Given names",
+      "alternateName": "Nom d’usage",
+      "alternateNameTranslation": "/ Alternate name",
+      "birthDate": "Date de naissance",
+      "reference": "Référence",
+      "validity": "Validité du document",
+      "validityValue": "2027-10-13",
+      "front": "Recto",
+      "backSide": "Verso",
+      "swipeHint": "Faites glisser la carte pour la retourner",
+      "footnote": "France Identité"
+    },
+    "home": {
+      "brand": "France Identité",
+      "title": "Identité numérique",
+      "surname": "NOM / Surname",
+      "givenNames": "Prénoms / Given names",
+      "birthDate": "Naissance",
+      "reference": "Référence",
+      "present": "Présenter ma carte",
+      "walletTitle": "Cartes numériques",
+      "driving": "Permis de conduire",
+      "registration": "Certificat d’immatriculation",
+      "vehicle": "Véhicule"
+    },
+    "accessibility": {
+      "app": "France Identité",
+      "cardView": "Présentation de la carte",
+      "more": "Plus d’options",
+      "cardStage": "Utilisez les flèches gauche et droite pour changer de face.",
+      "front": "Recto de la carte",
+      "back": "Verso de la carte",
+      "pagination": "Face de la carte",
+      "showFront": "Afficher le recto",
+      "showBack": "Afficher le verso",
+      "cardActions": "Actions de la carte",
+      "details": "Informations sur la carte",
+      "actions": "Actions disponibles",
+      "flipFront": "Afficher le recto de la carte",
+      "flipBack": "Afficher le verso de la carte",
+      "home": "Accueil de démonstration",
+      "history": "Mes justificatifs",
+      "notifications": "Notifications",
+      "settings": "Paramètres et informations",
+      "reorder": "Réorganiser mes cartes",
+      "refresh": "Actualiser les cartes",
+      "add": "Ajouter une carte",
+      "scan": "Scanner un QR code",
+      "close": "Fermer"
+    },
+    "common": {
+      "done": "J’ai compris",
+      "close": "Fermer",
+      "simulated": "",
+      "notice": "France Identité",
+      "simulationNotice": "Cette démonstration ne vérifie aucune identité et ne délivre aucun document officiel.",
+      "noScript": "Activez JavaScript pour retourner la carte et utiliser les menus de la maquette."
+    },
+    "dialogs": {
+      "details": {
+        "title": "Informations de la carte",
+        "notice": "Ce personnage et toutes les informations ci-dessous sont fictifs.",
+        "natureLabel": "Nature du document",
+        "nature": "Spécimen — aucune valeur officielle"
+      },
+      "actions": {
+        "title": "Utiliser mon identité"
+      },
+      "more": {
+        "title": "Ma carte d’identité",
+        "home": "Retour à l’accueil"
+      },
+      "settings": {
+        "title": "Paramètres et informations",
+        "identity": "Mon identité de démonstration",
+        "installHint": "Ajouter à l’écran d’accueil",
+        "version": "Version 1.1"
+      },
+      "about": {
+        "title": "À propos de cette maquette",
+        "paragraphs": [
+          "Cette interface est une démonstration indépendante inspirée de l’apparence de France Identité. Elle n’est ni l’application officielle, ni un titre d’identité.",
+          "La carte, le personnage et les informations affichées sont fictifs. Les fonctions de vérification, de scan et de création de justificatifs sont simulées.",
+          "Version 1.1 · Démonstration mobile"
+        ]
+      },
+      "history": {
+        "title": "Mes justificatifs",
+        "heading": "Aucun justificatif",
+        "paragraphs": [
+          "Les justificatifs apparaîtraient ici. Cette maquette n’en crée et n’en conserve aucun."
+        ]
+      },
+      "notifications": {
+        "title": "Notifications",
+        "heading": "Aucune notification",
+        "paragraphs": [
+          "Vous avez consulté toutes les notifications de cette démonstration."
+        ]
+      },
+      "install": {
+        "title": "Installer la démo",
+        "paragraphs": [
+          "Ajoutez cette maquette à l’écran d’accueil de votre téléphone pour la retrouver facilement.",
+          "Sur Android, ouvrez le menu de votre navigateur, puis choisissez Ajouter à l’écran d’accueil ou Installer l’application, si cette option est proposée.",
+          "L’application apparaîtra sous le nom Identité Démo."
+        ]
+      },
+      "installed": {
+        "title": "Démo installée",
+        "paragraphs": [
+          "Vous utilisez déjà la maquette dans sa fenêtre d’application."
+        ]
+      },
+      "add": {
+        "title": "Ajouter un titre",
+        "subtitle": "Titre de démonstration"
+      },
+      "proof": {
+        "title": "Prouver la validité",
+        "copy": "Cette vue illustre le parcours de vérification. Aucune vérification n’est effectuée et aucun échange NFC n’est réalisé."
+      },
+      "certificate": {
+        "title": "Créer un justificatif d’identité",
+        "copy": "La création de justificatifs est représentée uniquement pour la démonstration. Aucun justificatif n’est généré."
+      },
+      "share": {
+        "title": "Partager mes informations",
+        "copy": "Le partage est simulé. Aucune donnée n’est copiée, envoyée ou transmise à un autre appareil."
+      },
+      "scan": {
+        "title": "Scanner un QR code",
+        "copy": "Le scanner est une vue de démonstration. La caméra n’est pas activée et aucun QR code n’est lu."
+      },
+      "reorder": {
+        "title": "Organiser mes cartes",
+        "copy": "L’organisation des cartes est présentée à titre d’exemple. Les titres de cette maquette sont fictifs."
+      },
+      "driving": {
+        "title": "Permis de conduire",
+        "copy": "Cet emplacement représente un permis de démonstration. Aucun droit à conduire n’est enregistré ni vérifié."
+      },
+      "registration": {
+        "title": "Certificat d’immatriculation",
+        "copy": "Cet emplacement représente une carte grise de démonstration. Aucun véhicule réel n’est associé à cette maquette."
+      }
+    },
+    "messages": {
+      "refreshed": "Actualisation simulée — les cartes sont à jour.",
+      "installRequested": "La demande d’installation a été envoyée.",
+      "installed": "Identité Démo a été ajoutée à vos applications."
+    }
+  }
+}
